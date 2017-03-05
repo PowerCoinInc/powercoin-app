@@ -1,14 +1,14 @@
 {
-  "name": "ReactNativeNWReactCalculator",
-  "version": "1.0.0",
-  "description": "A mobile, desktop and website App with the same code",
-  "author": "Benoit VALLON <benoitvallon@gmail.com> (http://github.com/benoitvallon)",
+  "name": "PowerCoin",
+  "version": "0.1.0",
+  "description": "Unified PowerCoin Management App",
+  "author": "Chris Burton <cyberhiker@gmail.com> (http://github.com/cyberhiker)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/benoitvallon/react-native-nw-react-calculator"
+    "url": "https://github.com/cyberhiker/powercoin-app"
   },
-  "homepage": "https://github.com/benoitvallon/react-native-nw-react-calculator",
+  "homepage": "http://powercoin.io",
   "keywords": [
     "react",
     "react-native",
